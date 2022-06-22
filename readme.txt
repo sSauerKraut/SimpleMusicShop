@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Making changes here
-=======
-Making some changes here
->>>>>>> new-branch
+Making a change on the master branch
